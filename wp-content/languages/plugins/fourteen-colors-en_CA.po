@@ -1,0 +1,80 @@
+# Translation of Plugins - Fourteen Colors - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - Fourteen Colors - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-17 23:29:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Fourteen Colors - Stable (latest release)\n"
+
+#: fourteen-colors.php:223
+msgid "White"
+msgstr "White"
+
+#: fourteen-colors.php:218
+msgid "Light Gray"
+msgstr "Light Grey"
+
+#: fourteen-colors.php:213
+msgid "Medium Gray"
+msgstr "Medium Grey"
+
+#: fourteen-colors.php:208
+msgid "Dark Gray"
+msgstr "Dark Grey"
+
+#: fourteen-colors.php:203
+msgid "Contrast"
+msgstr "Contrast"
+
+#: fourteen-colors.php:198
+msgid "Accent"
+msgstr "Accent"
+
+#: fourteen-colors.php:91
+msgid "Includes links, text selection, the header search bar, and more; use vibrant colors for best results. Color variations may take a few seconds to update in the preview."
+msgstr "Includes links, text selection, the header search bar, and more; use vibrant colours for best results. Colour variations may take a few seconds to update in the preview."
+
+#: component-link-color.php:25
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: component-link-color.php:26
+msgid "Since your accent color is light, you can optionally specify a different color to be used for link on a white background."
+msgstr "Since your accent colour is light, you can optionally specify a different colour to be used for link on a white background."
+
+#: fourteen-colors.php:90
+msgid "Accent Color"
+msgstr "Accent Colour"
+
+#: fourteen-colors.php:103
+msgid "Contrast Color"
+msgstr "Contrast Colour"
+
+#: fourteen-colors.php:104
+msgid "Header, sidebar, footer, and other details; use muted or grayscale colors for best results."
+msgstr "Header, sidebar, footer, and other details; use muted or greyscale colours for best results."
+
+#. Plugin Name of the plugin
+msgid "Fourteen Colors"
+msgstr "Fourteen Colours"
+
+#. Plugin URI of the plugin
+msgid "http://celloexpressions.com/plugins/fourteen-colors"
+msgstr "http://celloexpressions.com/plugins/fourteen-colors"
+
+#. Description of the plugin
+msgid "Customize the colors of the Twenty Fourteen Theme, directly within the Customizer."
+msgstr "Customise the colours of the Twenty Fourteen Theme, directly within the Customiser."
+
+#. Author of the plugin
+msgid "Nick Halsey"
+msgstr "Nick Halsey"
+
+#. Author URI of the plugin
+msgid "http://celloexpressions.com/"
+msgstr "http://celloexpressions.com/"
